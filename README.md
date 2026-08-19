@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Kuldeep1704/leetcode/tree/master/0001-two-sum) |
+| [0503-next-greater-element-ii](https://github.com/Kuldeep1704/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0875-koko-eating-bananas](https://github.com/Kuldeep1704/leetcode/tree/master/0875-koko-eating-bananas) |
 ## Hash Table
 |  |
@@ -14,4 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0875-koko-eating-bananas](https://github.com/Kuldeep1704/leetcode/tree/master/0875-koko-eating-bananas) |
+## Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/Kuldeep1704/leetcode/tree/master/0503-next-greater-element-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/Kuldeep1704/leetcode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
