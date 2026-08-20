@@ -23,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/Kuldeep1704/leetcode/tree/master/0503-next-greater-element-ii) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Kuldeep1704/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
