@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Kuldeep1704/leetcode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Kuldeep1704/leetcode/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/Kuldeep1704/leetcode/tree/master/0202-happy-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -41,9 +42,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Kuldeep1704/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Kuldeep1704/leetcode/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/Kuldeep1704/leetcode/tree/master/0202-happy-number) |
 | [0876-middle-of-the-linked-list](https://github.com/Kuldeep1704/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Kuldeep1704/leetcode/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/Kuldeep1704/leetcode/tree/master/0202-happy-number) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Kuldeep1704/leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
