@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/Kuldeep1704/leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Kuldeep1704/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/Kuldeep1704/leetcode/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
@@ -32,12 +33,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Kuldeep1704/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Kuldeep1704/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Kuldeep1704/leetcode/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/Kuldeep1704/leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Kuldeep1704/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Kuldeep1704/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Kuldeep1704/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/Kuldeep1704/leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Kuldeep1704/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Kuldeep1704/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
@@ -45,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Kuldeep1704/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Kuldeep1704/leetcode/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/Kuldeep1704/leetcode/tree/master/0143-reorder-list) |
 | [0202-happy-number](https://github.com/Kuldeep1704/leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Kuldeep1704/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Kuldeep1704/leetcode/tree/master/0876-middle-of-the-linked-list) |
