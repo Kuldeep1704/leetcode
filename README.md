@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Kuldeep1704/leetcode/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/Kuldeep1704/leetcode/tree/master/0053-maximum-subarray) |
 | [0503-next-greater-element-ii](https://github.com/Kuldeep1704/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0875-koko-eating-bananas](https://github.com/Kuldeep1704/leetcode/tree/master/0875-koko-eating-bananas) |
 ## Hash Table
@@ -61,4 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Kuldeep1704/leetcode/tree/master/0202-happy-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Kuldeep1704/leetcode/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Kuldeep1704/leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
