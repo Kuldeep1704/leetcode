@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Kuldeep1704/leetcode/tree/master/0053-maximum-subarray) |
 | [0503-next-greater-element-ii](https://github.com/Kuldeep1704/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0875-koko-eating-bananas](https://github.com/Kuldeep1704/leetcode/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/Kuldeep1704/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0875-koko-eating-bananas](https://github.com/Kuldeep1704/leetcode/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/Kuldeep1704/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Stack
 |  |
 | ------- |
@@ -70,4 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Kuldeep1704/leetcode/tree/master/0053-maximum-subarray) |
+## Sliding Window
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Kuldeep1704/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Kuldeep1704/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
