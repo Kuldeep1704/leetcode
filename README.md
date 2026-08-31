@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Kuldeep1704/leetcode/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/Kuldeep1704/leetcode/tree/master/0036-valid-sudoku) |
 | [0053-maximum-subarray](https://github.com/Kuldeep1704/leetcode/tree/master/0053-maximum-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/Kuldeep1704/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0503-next-greater-element-ii](https://github.com/Kuldeep1704/leetcode/tree/master/0503-next-greater-element-ii) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Kuldeep1704/leetcode/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/Kuldeep1704/leetcode/tree/master/0036-valid-sudoku) |
 | [0141-linked-list-cycle](https://github.com/Kuldeep1704/leetcode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Kuldeep1704/leetcode/tree/master/0202-happy-number) |
 ## Binary Search
@@ -84,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Kuldeep1704/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Kuldeep1704/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/Kuldeep1704/leetcode/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
