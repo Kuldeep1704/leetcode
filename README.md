@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Kuldeep1704/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Kuldeep1704/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0503-next-greater-element-ii](https://github.com/Kuldeep1704/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0704-binary-search](https://github.com/Kuldeep1704/leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Kuldeep1704/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Kuldeep1704/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Hash Table
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kuldeep1704/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Kuldeep1704/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0704-binary-search](https://github.com/Kuldeep1704/leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Kuldeep1704/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Kuldeep1704/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Stack
