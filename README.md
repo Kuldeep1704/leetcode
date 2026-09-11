@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Kuldeep1704/leetcode/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/Kuldeep1704/leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Kuldeep1704/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/Kuldeep1704/leetcode/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
@@ -132,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Kuldeep1704/leetcode/tree/master/0067-add-binary) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Kuldeep1704/leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
