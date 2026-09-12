@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Kuldeep1704/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0503-next-greater-element-ii](https://github.com/Kuldeep1704/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/Kuldeep1704/leetcode/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/Kuldeep1704/leetcode/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/Kuldeep1704/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Kuldeep1704/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Hash Table
@@ -37,10 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Kuldeep1704/leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Kuldeep1704/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/Kuldeep1704/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/Kuldeep1704/leetcode/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/Kuldeep1704/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/Kuldeep1704/leetcode/tree/master/0739-daily-temperatures) |
 ## Linked List
 |  |
 | ------- |
