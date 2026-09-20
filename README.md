@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Kuldeep1704/leetcode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Kuldeep1704/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kuldeep1704/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Kuldeep1704/leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Kuldeep1704/leetcode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/Kuldeep1704/leetcode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Kuldeep1704/leetcode/tree/master/0202-happy-number) |
 ## Divide and Conquer
 |  |
@@ -145,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Kuldeep1704/leetcode/tree/master/0155-min-stack) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Kuldeep1704/leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
